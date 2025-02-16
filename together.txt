@@ -1,0 +1,1 @@
+My capstone project will be identifying key weaknesses for a batsman, and presenting this information for coaches to use and implement.
